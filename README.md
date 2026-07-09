@@ -1,6 +1,6 @@
-# Hi 👋, I'm moufez
+# Hi there 👋, I'm moufez
 
-## 🛡️ Security Profile & Skills
+## [0x8][HACKER]
 
 🛡️ **Role:** Penetration Tester | Cybersecurity Enthusiast
 🔍 **Specialties:** Web Security, OSINT, Social Engineering
@@ -25,15 +25,17 @@
 
 ---
 
-## 🏆 TryHackMe Achievement
+## 🏆 TryHackMe Profile
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/moufez.png)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-moufez-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/moufez)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![moufez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moufez&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moufez&show_icons=true&count_private=true" />
+</p>
 
 ---
 
@@ -56,17 +58,18 @@
 
 ## 📁 Security Projects
 
-| # | Project Name | Focus Area |
-|---|--------------|------------|
-| 1 | 🔐 [TryHackMe-Writeups](https://github.com/moufez/TryHackMe-Writeups) | Web Security, IDOR, Access Control, Enumeration, CTF Writeups |
-| 2 | 🛡️ CSRF-PoC-Generator | CSRF Testing Automation, HTTP Request Analysis, Security Research |
+| # | Project Name | Focus Area | Stars |
+|---|--------------|------------|-------|
+| 1 | 🔐 [TryHackMe-Writeups](https://github.com/moufez/TryHackMe-Writeups) | Web Security, IDOR, Access Control, Enumeration, CTF Writeups | ![Stars](https://img.shields.io/github/stars/moufez/TryHackMe-Writeups?style=social) |
+| 2 | 🛡️ [CSRF-PoC-Generator](https://github.com/moufez/csrf-poc-generator) | CSRF Testing Automation, HTTP Request Analysis, Security Research | ![Stars](https://img.shields.io/github/stars/moufez/csrf-poc-generator?style=social) |
 
 ---
 
 ## 📱 Connect With Me
 
-💻 **GitHub:** [moufez](https://github.com/moufez)
-🔗 **LinkedIn:** Add your profile here
+💻 **GitHub:** [moufez](https://github.com/moufez)<br>
+🎯 **TryHackMe:** [moufez](https://tryhackme.com/p/moufez)<br>
+🔗 **LinkedIn:** Add your profile here<br>
 📧 **Email:** khadhraoui.moufez@gmail.com
 
 ---
