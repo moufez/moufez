@@ -69,7 +69,7 @@
 
 | # | Project Name | Focus Area |
 |---|--------------|------------|
-| 1 | 🔐 [TryHackMe-Writeups](https://github.com/moufez/TryHackMe-Writeups) | Web Security, IDOR, Access Control, Enumeration, CTF Writeups |
+| 1 | 🔐 [TryHackMe-Writeups](https://github.com/moufez/TryHackMe-Writeups) | Web Security, CTF Writeups |
 | 2 | 🛡️ [CSRF-PoC-Generator](https://github.com/moufez/csrf-poc-generator) | CSRF Testing Automation, HTTP Request Analysis, Security Research |
 
 ---
