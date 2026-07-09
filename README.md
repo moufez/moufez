@@ -23,7 +23,7 @@
 - 🛡️ **Role:** Penetration Tester specialized in Web Application Security.
 - 🔍 **Core Expertise:** Web Pentesting, OSINT, Social Engineering.
 - 🔐 **Deep Focus:** Web, Application & API Security.
-- 🕵️ **Security Domains:** OWASP Top 10, Web Application Security, API Security, Active Directory, Network Pentesting, Authentication & Access Control, Cryptography.
+- 🕵️ **Security Domains:** OWASP Top 10, Web Application Security, API Security, Active Directory, Network Pentesting, Cryptography.
 - 🛠️ **Programming Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript.
 - 🐧 **Operating Systems:** Kali Linux, Parrot OS, Windows, Garuda Linux.
 - 🌐 **Active In:** Bug Bounty, Red Teaming, Security Research.
