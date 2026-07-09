@@ -1,15 +1,13 @@
 # Hi there 👋, I'm moufez
 
-## [0x8][HACKER]
-
-🛡️ **Role:** Penetration Tester | Cybersecurity Enthusiast
-🔍 **Specialties:** Web Security, OSINT, Social Engineering
-🔐 **Focus Areas:** Cryptography, Vulnerability Research, Secure Development
-🕵️ **Security Knowledge:** OWASP Top 10, Access Control, Authentication, Injection, CSRF, API Security
-🛠️ **Programming Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript
-🐧 **Operating Systems:** Kali Linux, Parrot OS, Windows, Garuda Linux
-🌐 **Interests:** Web Pentesting, Bug Bounty, Red Teaming, Security Research
-🎯 **Mission:** Learning, breaking, and securing digital systems responsibly.
+🛡️ **Role:** Penetration Tester | Cybersecurity Enthusiast<br>
+🔍 **Specialties:** Web Security, OSINT, Social Engineering<br>
+🔐 **Focus Areas:** Cryptography, Vulnerability Research, Secure Development<br>
+🕵️ **Security Knowledge:** OWASP Top 10, Access Control, Authentication, Injection, CSRF, API Security<br>
+🛠️ **Programming Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript<br>
+🐧 **Operating Systems:** Kali Linux, Parrot OS, Windows, Garuda Linux<br>
+🌐 **Interests:** Web Pentesting, Bug Bounty, Red Teaming, Security Research<br>
+🎯 **Mission:** Learning, breaking, and securing digital systems responsibly.<br>
 ⚡ **Fact:** I ❤️ Coffee & Terminal.
 
 ---
