@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=200&section=header&text=MOUFEZ&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Penetration%20Tester%20|%20OSINT%20Expert%20|%20Cybersecurity&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=200&section=header&text=MOUFEZ&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Web%20Security%20Expert%20|%20Penetration%20Tester%20|%20OSINT&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm moufez</h1>
-<h3 align="center">[0x8][HACKER]</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moufez&label=Profile%20views&color=0e75b6&style=flat" alt="moufez" />
@@ -21,14 +20,15 @@
 <img align="right" width="200" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 </p>
 
-- 🛡️ **Role:** Penetration Tester | Cybersecurity Enthusiast.
-- 🔍 **Expertise:** OSINT & Social Engineering.
-- 🔐 **Focus:** Mastering **Cryptography**.
-- 🕵️ **Security Knowledge:** OWASP Top 10, Access Control, Authentication, Injection, CSRF.
-- 🛠️ **Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript.
-- 🐧 **OS:** Kali Linux, Parrot OS, Windows, Garuda.
-- 🎯 **Mission:** Securing the digital frontier.
-- ⚡ **Fact:** I ❤️ coffee & terminal.
+- 🛡️ **Role:** Penetration Tester specialized in Web Application Security.
+- 🔍 **Core Expertise:** Web Pentesting, OSINT, Social Engineering.
+- 🔐 **Deep Focus:** Cryptography, Vulnerability Research, Secure Development.
+- 🕵️ **Security Domains:** OWASP Top 10, Access Control, Authentication, Injection, CSRF, API Security.
+- 🛠️ **Programming Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript.
+- 🐧 **Operating Systems:** Kali Linux, Parrot OS, Windows, Garuda Linux.
+- 🌐 **Active In:** Bug Bounty, Red Teaming, Security Research.
+- 🎯 **Approach:** Identifying, exploiting, and remediating vulnerabilities in web systems.
+- ⚡ **Fact:** I ❤️ Coffee & Terminal.
 
 <br clear="right"/>
 
