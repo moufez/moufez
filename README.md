@@ -23,12 +23,12 @@
 - 🛡️ **Role:** Penetration Tester specialized in Web Application Security.
 - 🔍 **Core Expertise:** Web Pentesting, OSINT, Social Engineering.
 - 🔐 **Deep Focus:** Web, Application & API Security.
-- 🕵️ **Security Domains:** OWASP Top 10, Web Application Security, API Security, Active Directory, Network Pentesting, Cryptography.
+- 🕵️ **Security Domains:** OWASP Top 10, Web Application Security, API Security, Active Directory, Network Pentesting, Authentication & Access Control, Cryptography.
 - 🛠️ **Programming Arsenal:** Python, C/C++, Bash, PHP, SQL, JavaScript.
 - 🐧 **Operating Systems:** Kali Linux, Parrot OS, Windows, Garuda Linux.
 - 🌐 **Active In:** Bug Bounty, Red Teaming, Security Research.
 - 🎯 **Approach:** Identifying, exploiting, and remediating vulnerabilities in web systems.
-- ⚡ **Fact:** I ❤️ Coffee & Terminal.
+- ⚡ **Fact:** I ❤️ Hunting Vulnerabilities & Learning New Exploits.
 
 <br clear="right"/>
 
@@ -57,11 +57,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moufez&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moufez&layout=compact&theme=dark" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=moufez&theme=react-dark" />
 </p>
 
 ---
